@@ -18,7 +18,7 @@
 |:---:|:---:|:---:|
 | **[AlumConnect](https://bit.ly/Alum-Connect)** <br/> *Alumni Network Revolution* | Full-Stack Platform <br/> **Production Ready** | `MERN` `AWS EC2` `NGINX` |
 | **[GrammarBuddy](https://huggingface.co/spaces/glockholm/Grammar-Buddy)** <br/> *AI Grammar Wizard* | Multimodal LLM <br/> **Custom Scoring** | `GenAI` `Transformers` `HuggingFace` |
-| **[Segwise](https://bit.ly/segwise_anujsingh)** <br/> *Webhook Infrastructure* | Secured Delivery <br/> **SHA Signatures** | `FastAPI` `Docker` `AWS` |
+| **[Segwise](https://bit.ly/segwise_anujsingh)** <br/> *Webhook Infrastructure* | Secured Delivery <br/> **SHA Signatures** | `FastAPI` `redis` `celery` |
 | **[HomeShare](https://home-sharing-platform-five.vercel.app/)** <br/> *Property Sharing Platform* | Full-Stack Web App <br/> **Modern UI/UX** | `Next.js` `Node.js` `React` |
 | **[Multi-Agent Tutor](https://multi-agent-ai-tutor.vercel.app/)** <br/> *Autonomous AI System* | Agent Orchestration <br/> **Self-Learning** | `Gemini` `Multi-Agent` `RAG` |
 
