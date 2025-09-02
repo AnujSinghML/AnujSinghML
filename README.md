@@ -34,7 +34,7 @@
 
 ### 🏆 **Published in ACM Digital Library**
 **"Aspect-Based Sentiment Analysis using Natural Language Processing"**  
-*Presented @ ICIMMI 2024* | [**Link to Post**](https://www.linkedin.com/posts/anujsanjaysingh_honored-to-be-the-keynote-at-the-6th-international-activity-7284596556647809024-e-25)  | [GitHub](https://github.com/AnujSinghML/Aspect-Based-Sentiment-Analysis-ABSA-)
+*Presented @ ICIMMI 2024* | [**Publication**]([https://www.linkedin.com/posts/anujsanjaysingh_honored-to-be-the-keynote-at-the-6th-international-activity-7284596556647809024-e-25](https://doi.org/10.1145/3745812.3745820))  | [GitHub](https://github.com/AnujSinghML/Aspect-Based-Sentiment-Analysis-ABSA-)
 
 ### 🥇 **Competitive Programming Excellence**
 🏅 **[Top 5 out of 1,500+ participants](https://www.kaggle.com/competitions/shl-hiring-assessment/leaderboard)** in SHL Kaggle Assessment Competition  
